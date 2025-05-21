@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **TypeScript, MongoDB, and Performance Optimization**
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**
 - 💬 Ask me about **React, Tailwind CSS, GitHub, Deployment**
-- 📫 How to reach me: `you@example.com`
 - ⚡ Fun fact: I believe in "Code less, build more."
 
 ---
@@ -41,8 +40,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmorHossen&show_icons=true&theme=radical" alt="Omor GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmorHossen&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmzadHossain&show_icons=true&theme=radical" alt="Omor GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadHossain&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
