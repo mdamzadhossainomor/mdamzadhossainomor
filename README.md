@@ -69,7 +69,7 @@
   <a href="mailto:mdamzadhossainomor@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/AmzadHossain" target="_blank">
+  <a href="https://github.com/mdamzadhossainomor" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
