@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omor Hossen</h1>
+<h1 align="center">Hi 👋, I'm Md Amzad Hossain Omor </h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
