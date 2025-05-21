@@ -49,17 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmorHossen&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
-### 📌 Featured Projects
-
-| Project | Description | Live Demo |
-|--------|-------------|-----------|
-| **MyShop** | An e-commerce site built with Next.js & MongoDB | [Live](https://myshop.vercel.app) |
-| **Portfolio** | Personal website using React and Tailwind CSS | [Live](https://yourportfolio.vercel.app) |
-| **TodoPro** | Advanced todo app with Firebase Auth & DB | [Live](https://todopro.vercel.app) |
-
----
 
 ### 🔗 Connect with Me
 
