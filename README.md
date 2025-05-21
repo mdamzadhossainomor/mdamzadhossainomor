@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmorHossen&label=Profile%20views&color=0e75b6&style=flat" alt="OmorHossen" />
+  <img src="https://komarev.com/ghpvc/?username=AmzadHossain&label=Profile%20views&color=0e75b6&style=flat" alt="AmzadHossain" />
 </p>
 
 ---
@@ -45,17 +45,28 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmorHossen&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadHossain&layout=compact&theme=radical&hide=java" alt="Top Languages"/>
 </p>
 
+---
 
+### 🔥 Contribution Graph (Active Hours & Weekly Activity)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmzadHossain&theme=radical&hide_border=true" />
+</p>
+
+---
 
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/md-amzad-hossain-omor/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="yourname" /></a>
-<a href="mailto:mdamzadhossainomor.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/md-amzad-hossain-omor/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mdamzadhossainomor@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
 ---
