@@ -54,9 +54,9 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourname" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="yourname" /></a>
-<a href="mailto:you@example.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://yourportfolio.vercel.app"><img align="center" src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-amzad-hossain-omor/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="yourname" /></a>
+<a href="mailto:mdamzadhossainomor.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+
 </p>
 
 ---
