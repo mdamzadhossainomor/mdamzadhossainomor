@@ -41,12 +41,12 @@
 
 <p align="center">
   <!-- Dynamic GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmzadHossain&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Omor's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadHossain&layout=compact&theme=radical&hide=java,html,css" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdamzadhossainomor&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Omor's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamzadhossainomor&layout=compact&theme=radical&hide=java,html,css" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadHossain&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdamzadhossainomor&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 
 <p align="center">
   <!-- Dynamic Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmzadHossain&theme=radical&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamzadhossainomor&theme=radical&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
