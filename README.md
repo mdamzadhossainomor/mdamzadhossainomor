@@ -41,7 +41,7 @@
 
 <p align="center">
   <!-- Dynamic GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdamzadhossainomor&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Omor's stats"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdamzadhossainomor&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Omor's stats"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamzadhossainomor&layout=compact&theme=radical&hide=java,html,css" alt="Top Languages"/>
 </p>
 
