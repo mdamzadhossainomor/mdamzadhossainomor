@@ -38,12 +38,11 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <!-- Dynamic GitHub Stats -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdamzadhossainomor&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Omor's stats"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamzadhossainomor&layout=compact&theme=radical&hide=java,html,css" alt="Top Languages"/>
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamzadhossainomor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdamzadhossainomor&theme=radical" alt="GitHub Streak"/>
