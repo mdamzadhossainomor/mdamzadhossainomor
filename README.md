@@ -4,15 +4,13 @@
 
 <!-- ======================= 🌐 SOCIAL & PORTFOLIO ======================= -->
 <p align="center">
-  <a href="mailto:hashibub123457@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sheikh-hasibul-alam-714a08248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://hashibub-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00AAA3?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100093058501576" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sheikhhashibubalam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://dribbble.com/Hashibul-Alam" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-  <a href="https://www.behance.net/Hashibul-Alam" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="mailto:mdamzadhossainomor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://bd.linkedin.com/in/md-amzad-hossain-omor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mdamzadhossainomor.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00AAA3?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.facebook.com/mdamzadhossainomor6/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mdamzadhossainomor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://codepen.io/Hashibul-Alam" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@SHAOnlineIncome" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@mdamzadhossainomor" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
