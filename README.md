@@ -1,46 +1,51 @@
-<h1 align="center">Hi 👋, I'm Md Amzad Hossain Omor</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1800&pause=700&color=00AAA3&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Amzad+Hossain+Omor!;Full+Stack+Developer+%7C+UI%2FUX+Engineer;Code.+Design.+Automate.+Deploy.+Innovate." alt="Typing Animation" />
+</p>
 
+<!-- ======================= 🌐 SOCIAL & PORTFOLIO ======================= -->
+<p align="center">
+  <a href="mailto:hashibub123457@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sheikh-hasibul-alam-714a08248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://hashibub-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00AAA3?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100093058501576" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sheikhhashibubalam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://dribbble.com/Hashibul-Alam" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="https://www.behance.net/Hashibul-Alam" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://codepen.io/Hashibul-Alam" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@SHAOnlineIncome" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- ========================= 🌌 PROFILE SUMMARY ========================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAA3&height=150&section=header&text=Welcome+to+My+Advanced+Universe!&fontSize=47&fontAlignY=35&fontColor=FFFFFF&desc=Full+Stack+%7C+UI%2FUX+Engineering+%7C+Open+Source&descAlignY=70&descAlign=50&descSize=23&descColor=ea80fc" />
+  <br>
+  <b>
+    💡 <span style="color:#00AAA3">Full Stack & UI/UX Engineer</span>: Type-safe, real-time, modular, scalable.<br>
+    🎨 <span style="color:#FFA933">Modern, minimal, lightning-fast interfaces.</span><br>
+    🛠️ Automated CI/CD, Testing, Monitoring, Self-hosted & Cloud.<br>
+    🤝 Open Source, Team, Freelance, Startup, SaaS — Let's build the future together!
+  </b>
+</div>
+
+---
+
+<!-- ======================== 🛠️ ULTIMATE TECH STACK ======================== -->
+<h3 align="center">🛠️ My Stack: Full Stack, UI/UX, DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,bootstrap,materialui,html,css,sass,nodejs,express,nestjs,mongodb,postgres,mysql,prisma,redis,aws,vercel,netlify,linux,git,figma,vscode,rails,supabase,cloudflare,postman" />
+</p>
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmzadHossain&label=Profile%20views&color=0e75b6&style=flat" alt="AmzadHossain" />
 </p>
 
----
 
-### � About Me
-- 🔭 Currently working on **Full-stack Projects using Next.js**
-- 🌱 Learning **TypeScript, MongoDB, and Performance Optimization**
-- 👯 Looking to collaborate on **Open Source Frontend Projects**
-- 💬 Ask me about **React, Tailwind CSS, GitHub, Deployment**
-- ⚡ Fun fact: I believe in "Code less, build more."
 
----
-
-### 🛠 Tech Stack
-
-#### 💻 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-#### 🚀 Backend & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-
----
 
 ### 📊 GitHub Stats
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamzadhossainomor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" />
-</p>
 
 
 
@@ -57,22 +62,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamzadhossainomor&theme=radical&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-amzad-hossain-omor/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mdamzadhossainomor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/mdamzadhossainomor" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
 
 <p align="center">❤️ Thanks for visiting my profile!</p>
