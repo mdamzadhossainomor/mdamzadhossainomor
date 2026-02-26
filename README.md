@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmzadHossain&label=Profile%20views&color=0e75b6&style=flat" alt="AmzadHossain" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1800&pause=700&color=00AAA3&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Amzad+Hossain+Omor!;Full+Stack+Developer+%7C+UI%2FUX+Engineer;Code.+Design.+Automate.+Deploy.+Innovate." alt="Typing Animation" />
 </p>
 
@@ -36,10 +41,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmzadHossain&label=Profile%20views&color=0e75b6&style=flat" alt="AmzadHossain" />
-</p>
-
 
 
 
