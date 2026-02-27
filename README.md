@@ -54,12 +54,9 @@
 
 ---
 
-### 📈 Contribution Graph
+ <h1 align="center">♻️📈 Contribution Graph 📉♻️</h1>
 
-<p align="center">
-  <!-- Dynamic Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamzadhossainomor&theme=radical&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
+[![Md Amzad Hossain Omor github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdamzadhossainomor&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">❤️ Thanks for visiting my profile!</p>
