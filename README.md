@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1800&pause=700&color=00AAA3&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Amzad+Hossain+Omor!;Full+Stack+Developer+%7C+UI%2FUX+Engineer;Code.+Design.+Automate.+Deploy.+Innovate." alt="Typing Animation" />
 </p>
 
-<!-- ================== 🌐 SOCIAL & PORTFOLIO ================ -->
+<!-- ================= 🌐 SOCIAL & PORTFOLIO ================ -->
 <p align="center">
   <a href="mailto:mdamzadhossainomor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://bd.linkedin.com/in/md-amzad-hossain-omor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
