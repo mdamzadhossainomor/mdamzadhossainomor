@@ -34,7 +34,7 @@
 
 ---
 
-<!-- ======================== 🛠️ ULTIMATE TECH STACK ======================== -->
+<!-- ======================== 🛠️ ULTIMATE TECH STACK ======================= -->
 <h3 align="center">🛠️ My Stack: Full Stack, UI/UX</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,bootstrap,materialui,html,css,sass,nodejs,express,nestjs,mongodb,postgres,mysql,prisma,redis,aws,vercel,netlify,linux,git,figma,vscode,rails,supabase,cloudflare,postman" />
