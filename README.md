@@ -20,7 +20,7 @@
 
 ---
 
-<!-- ==================== 🌌 PROFILE SUMMARY ============ -->
+<!-- =================== 🌌 PROFILE SUMMARY ============ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAA3&height=150&section=header&text=Welcome+to+My+Advanced+Universe!&fontSize=47&fontAlignY=35&fontColor=FFFFFF&desc=Full+Stack+Developer+%7C+UI%2FUX+Engineering+%7C+Open+Source&descAlignY=70&descAlign=50&descSize=23&descColor=ea80fc" />
   <br>
